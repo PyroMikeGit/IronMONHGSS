@@ -1,7 +1,7 @@
 ## Patch Details:
 ![6_3 RGCN](https://user-images.githubusercontent.com/109924208/195183457-c3fc0376-9de7-4168-a5eb-39316cf373cd.png)
 - Changes the Title Screen to the custom logo made by Foulton shown above.
-- Compatible with the latest version of Ajarmar's Randomizer,
+- Compatible with the latest version of [Ajarmar's Randomizer](https://github.com/Ajarmar/universal-pokemon-randomizer-zx) and [OnlySpaghettiCode's NDS IronMON Tracker](https://github.com/Brian0255/NDS-Ironmon-Tracker)
 - Uses the latest version of SilverstarStream's [Intro Skip Patch.](https://www.pokecommunity.com/showthread.php?p=10481634)
 - Removes the frame limiter so movement and battle animations are sped up [as shown here.](https://www.youtube.com/watch?v=P7P6tjsuNxY&t=77s)
 - Shortens/Removes the dialogue up until Goldenrod City to reduce button mashing.
