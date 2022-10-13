@@ -6,6 +6,7 @@
 - Removes the frame limiter so movement and battle animations are sped up [as shown here.](https://www.youtube.com/watch?v=P7P6tjsuNxY&t=77s)
 - Shortens/Removes the dialogue up until Goldenrod City to reduce button mashing.
 - Removed the following Scenes
+  - The PokeGear prompt when talking to Mom
   - The Kimono Girl in Ilex Forest
   - Lyra and her grandparents talking to you outside the Day Care (Day Care can still be used)
   - Marcus introducing you to the Pokeathlon (so you can pick up your hidden items in peace)
