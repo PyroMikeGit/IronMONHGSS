@@ -19,7 +19,7 @@
 
 ![image](https://user-images.githubusercontent.com/109924208/190934121-551e88bc-b0f6-4d09-80ef-4da0a72af52b.png)
 
-Note: At the moment I only have a patch for HeartGold since that's the game I run, but I'll work on a SoulSilver patch is someone asks for it, just ping me in the [IronMON Discord Server](https://discord.gg/Z5aruYafq4) (ID: @Pyro#1111)
+Note: At the moment I only have a patch for HeartGold since that's the game I run, but I'll work on a SoulSilver patch if someone asks for it, so feel free to ping me in the [IronMON Discord Server](https://discord.gg/Z5aruYafq4) (ID: @Pyro#1111)
 
 I will be updating this patch later on if I find other stuff that I want to fix so feel free to suggest some fixes you want to make.
 
