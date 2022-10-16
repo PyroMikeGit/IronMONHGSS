@@ -1,16 +1,17 @@
 ## Patch Details:
-![6_3 RGCN](https://user-images.githubusercontent.com/109924208/195183457-c3fc0376-9de7-4168-a5eb-39316cf373cd.png)
+![Untitled-11](https://user-images.githubusercontent.com/109924208/196058456-1fb3616f-c87c-4d8f-a67e-25967b22bfd3.png)
 - Changes the Title Screen to the custom logo made by Foulton shown above.
-- Compatible with the latest version of [Ajarmar's Randomizer](https://github.com/Ajarmar/universal-pokemon-randomizer-zx) and [OnlySpaghettiCode's NDS IronMON Tracker](https://github.com/Brian0255/NDS-Ironmon-Tracker)
+- Compatible with version v4.5.1 and v4.4.0 of [Ajarmar's Randomizer](https://github.com/Ajarmar/universal-pokemon-randomizer-zx) and [OnlySpaghettiCode's NDS IronMON Tracker](https://github.com/Brian0255/NDS-Ironmon-Tracker)
 - Uses the latest version of SilverstarStream's [Intro Skip Patch.](https://www.pokecommunity.com/showthread.php?p=10481634)
 - Removes the frame limiter so movement and battle animations are sped up [as shown here.](https://www.youtube.com/watch?v=P7P6tjsuNxY&t=77s)
 - Shortens/Removes the dialogue up until Goldenrod City to reduce button mashing.
 - Removed the following Scenes
+  - Lyra giving you the VS. Recorder
   - The PokeGear prompt when talking to Mom
   - The Kimono Girl in Ilex Forest
   - Lyra and her grandparents talking to you outside the Day Care (Day Care can still be used)
   - Marcus introducing you to the Pokeathlon (so you can pick up your hidden items in peace)
-- Added a Name Rater to the Pokemon Center in Cherrygrove City
+- Added Name Raters to the Pokemon Center in Cherrygrove City and right outside the Pokemon Center in Violet City
 ![image](https://user-images.githubusercontent.com/109924208/195184355-c02e4cd5-54d1-4b78-b919-7323aa2c44cf.png)
 
 ## How to Install
@@ -20,9 +21,7 @@
 
 ![image](https://user-images.githubusercontent.com/109924208/190934121-551e88bc-b0f6-4d09-80ef-4da0a72af52b.png)
 
-Note: At the moment I only have a patch for HeartGold since that's the game I run, but I'll work on a SoulSilver patch if someone asks for it, so feel free to ping me in the [IronMON Discord Server](https://discord.gg/Z5aruYafq4) (ID: @Pyro#1111)
-
-I will be updating this patch later on if I find other stuff that I want to fix so feel free to suggest some fixes you want to make.
+I will be updating this patch later on if I find other stuff that I want to fix so feel free to suggest some fixes you want to make in the [IronMON Discord Server](https://discord.gg/Z5aruYafq4).
 
 ## Credits:
 
