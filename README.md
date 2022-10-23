@@ -12,6 +12,7 @@
   - Lyra and her grandparents talking to you outside the Day Care (Day Care can still be used)
   - Marcus introducing you to the Pokeathlon (so you can pick up your hidden items in peace)
 - Added Name Raters to the Pokemon Center in Cherrygrove City and right outside the Pokemon Center in Violet City
+
 ![image](https://user-images.githubusercontent.com/109924208/195184355-c02e4cd5-54d1-4b78-b919-7323aa2c44cf.png)
 
 ## How to Install
